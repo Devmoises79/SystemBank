@@ -50,7 +50,7 @@ python sistema.py
 ```
 
 
-📖 Aprendizados
+## 📖 Aprendizados
 Este projeto visa praticar os conceitos de:
 
 - Lógica de programação
